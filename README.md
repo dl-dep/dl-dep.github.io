@@ -4,5 +4,5 @@ Recent breakthroughs in deep learning (DL) techniques have stimulated significan
 To fill this gap, this paper presents the first comprehensive study to characterize symptoms, root causes and fix patterns of DBs across the whole DL stack with 326 DBs collected from StackOverflow posts. For each DB, we first investigate the symptom as well as the lifecyle stage and dependency where the symptom is exposed. Then, we analyze the root cause as well as the lifecycle stage and dependency where the root cause is introduced. Finally, we explore the fix pattern as well as the knowledge sources that are used to fix it. Our findings from this study shed light on the implications on dependency management, e.g., constructing dependency knowledge graph for the entire DL stack, recommending dependencies, detecting, localizing and fixing dependency bugs, and upgrading and migrating dependencies.
 
 
-The paper has been submitted to ASE 2022. To learn more, please view our [GitHub](https://github.com/dl-dep/dl-dep.github.io) for [data](dataset.zip).
+The paper has been submitted to ASE 2022. To learn more, please view [GitHub](https://github.com/dl-dep/dl-dep.github.io) for our [data](dataset.zip).
 
