@@ -2,4 +2,4 @@ Deep learning (DL) applications, built upon a heterogeneous and complex DL stack
 
 To bridge this gap, this paper presents the first comprehensive study to characterize symptoms, root causes and fix patterns of DBs across the whole DL stack with 446 DBs collected from StackOverflow posts and GitHub issues. For each DB, we first investigate the symptom as well as the lifecycle stage and dependency where the symptom is exposed. Then, we analyze the root cause as well as the lifecycle stage and dependency where the root cause is introduced. Finally, we explore the fix pattern and the knowledge sources that are used to fix it. Our findings from this study shed light on practical implications on dependency management.
 
-The paper has been submitted to ICSE 2023, please view [GitHub](https://github.com/dl-dep/dl-dep.github.io) for our [data](dataset.csv) and [analysis scripts](scripts.tar.gz).
+The paper has been submitted to ICSE 2023, please view [GitHub](https://github.com/dl-dep/dl-dep.github.io) for our [data](dataset.xls) and [analysis scripts](scripts.zip).
