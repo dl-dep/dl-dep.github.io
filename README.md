@@ -12,11 +12,11 @@ view [GitHub](https://github.com/dl-dep/dl-dep.github.io) for our [data](dataset
 * StackOverflow posts
   * Tags ✖️
 * GitHub issues
-  * 10 Projects done
+  * [30 library and 10 application repositories](github_repos.json)
 
 #### Analysis Scripts
 
-* Codebook done
+* [Codebook](code_book.xlsx)
 * Scripts 
   * Stage done
   * Symptoms done
