@@ -24,5 +24,4 @@ The paper has been submitted to ICSE 2023, please see our data and scripts below
 
 #### Prototype
 
-* [Docker Images](dockers.zip)
 * [Constraints](constraints.zip)
