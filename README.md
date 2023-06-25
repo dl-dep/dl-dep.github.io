@@ -9,6 +9,8 @@ The paper has been submitted to FSE 2023, please see our data and scripts below.
 * [446 DBs](dataset.xls)
 * StackOverflow posts
   * [Tags](tags.zip)
+* Significance and relevance score of tags
+  * [Tags](significance_relevance.csv)
 * GitHub issues
   * [30 library and 10 application repositories](github_repos.json)
 
